@@ -1,5 +1,5 @@
 Conway's Game of Life
-
+inne wersje QT:
 usuń:  
 
     namespace Ui {
